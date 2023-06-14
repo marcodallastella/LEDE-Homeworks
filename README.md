@@ -7,23 +7,23 @@ This repository contains the exercises that I've worked on as a part of the Lede
 
 #### 01: Python
 
-* [Assignment 1](01.%20Python/homework-01-dallastella.py)
+* [Assignment 1](01.%20Python/homework-01-dallastella.py) : multiple comparisons om `if`, incrementing, `else/elif`, modulo
 
 #### 02. Lists + dictionaries
 
-* [Assignment 1](02.%20Lists%20%2B%20dictionaries/files/homework-2-part1.py)
-* [Assignment 2](02.%20Lists%20%2B%20dictionaries/files/homework-2-part2.py)
-* [Assignment 3](02.%20Lists%20%2B%20dictionaries/files/homework-2-part3.py)
+* [Assignment 1](02.%20Lists%20%2B%20dictionaries/files/homework-2-part1.py) : dictionaries
+* [Assignment 2](02.%20Lists%20%2B%20dictionaries/files/homework-2-part2.py) : dictionaries, list of dictionaries
+* [Assignment 3](02.%20Lists%20%2B%20dictionaries/files/homework-2-part3.py) : Spotify data
 
 #### 03. Python, Jupyter, APIs
 
-* [Assignment 1](03.%20Python%2C%20Jupyter%2C%20APIs/files/Homework%2003%20Part%201.ipynb)
-* [Assignment 2](03.%20Python%2C%20Jupyter%2C%20APIs/files/Homework%2003%20Part%202.ipynb)
+* [Assignment 1](03.%20Python%2C%20Jupyter%2C%20APIs/files/Homework%2003%20Part%201.ipynb) : Pokemon API
+* [Assignment 2](03.%20Python%2C%20Jupyter%2C%20APIs/files/Homework%2003%20Part%202.ipynb) : Weather API
 
 #### 04: More API work, git
 
-* [Assignment 1](1.Weather) - a code that uses the WeatherAPI to get weather information.
-* [Assignment 2](2.LastFM) - a script that uses the LastFM API to get information about artists.
+* [Assignment 1](1.Weather) : WeatherAPI
+* [Assignment 2](2.LastFM) : LastFM API
 
 ### Contact
 Marco Dalla Stella, [md3934@columbia.edu](mailto:md3934@columbia.edu)
