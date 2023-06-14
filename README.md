@@ -5,6 +5,21 @@ This repository contains the exercises that I've worked on as a part of the Lede
 
 ### Assignments
 
+#### 01: Python
+
+* [Assignment 1](01.%20Python/homework-01-dallastella.py)
+
+#### 02. Lists + dictionaries
+
+* [Assignment 1](02.%20Lists%20%2B%20dictionaries/files/homework-2-part1.py)
+* [Assignment 2](02.%20Lists%20%2B%20dictionaries/files/homework-2-part2.py)
+* [Assignment 3](02.%20Lists%20%2B%20dictionaries/files/homework-2-part3.py)
+
+#### 03. Python, Jupyter, APIs
+
+* [Assignment 1](03.%20Python%2C%20Jupyter%2C%20APIs/files/Homework%2003%20Part%201.ipynb)
+* [Assignment 2](03.%20Python%2C%20Jupyter%2C%20APIs/files/Homework%2003%20Part%202.ipynb)
+
 #### 04: More API work, git
 
 * [Assignment 1](1.Weather) - a code that uses the WeatherAPI to get weather information.
