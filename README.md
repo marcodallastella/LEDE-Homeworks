@@ -7,7 +7,7 @@ This repository contains the exercises that I've worked on as a part of the Lede
 
 #### 01: Python
 
-* [Assignment 1](01.%20Python/homework-01-dallastella.py) : multiple comparisons om `if`, incrementing, `else/elif`, modulo
+* [Assignment 1](01.%20Python/homework-01-dallastella.py) : multiple comparisons with `if`, incrementing, `else/elif`, modulo
 
 #### 02. Lists + dictionaries
 
