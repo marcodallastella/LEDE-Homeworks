@@ -22,8 +22,8 @@ This repository contains the exercises that I've worked on as a part of the Lede
 
 #### 04: More API work, git
 
-* [Assignment 1](1.Weather) : WeatherAPI
-* [Assignment 2](2.LastFM) : LastFM API
+* [Assignment 1](04.%20More%20API%20work%2C%20git/04.01%20Weather/) : WeatherAPI
+* [Assignment 2](04.%20More%20API%20work%2C%20git/04.02%20LastFM/) : LastFM API
 
 ### Contact
 Marco Dalla Stella, [md3934@columbia.edu](mailto:md3934@columbia.edu)
