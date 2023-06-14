@@ -2,6 +2,33 @@
 # 2023-06-06
 # Homework 1
 
+# Instructions
+# Inspired by the BBC's "Your life on earth"Links to an external site.  (which I have watched hilariously decompose since it was created), we will be creating a program to analyze the year a user was born in.
+
+# Please create a brand new file named homework-01-lastname.py
+
+# The first line should be a comment with your full name
+# The second line should be a comment with the date
+# The third line should be a comment "Homework 1"
+# When run from the command line, this file should prompt the user for their year of birth, and print out (approximately):
+
+# How old the user is
+# How many times the user's heart has beaten
+# How many times a blue whale's heart has beaten in that time
+# How many times a rabbit's heart has beaten in that time
+# If the answer to rabbit heartbeats is more than a million, say "XXX million" instead of the very long raw number
+# How old they are in Venus years
+# How old they are in Neptune years
+# Whether they are the same age as you, older or younger
+#  If older or younger, how many years difference
+#  If they were born in an even or odd year
+# How many times there has been a president from the Democratic Party in office since they were born (1960 onward, and each president only counts once)
+# Which US President was in office when they were born (1960 onward)
+# If someone says they were born in the future, try asking them again (assume they'll do it right the second time).
+
+
+
+
 # As a first thing, I will set up the input and store it in the year variable.
 # I will also make sure that if the person is born in the future, I'll ask them one more time.
 
