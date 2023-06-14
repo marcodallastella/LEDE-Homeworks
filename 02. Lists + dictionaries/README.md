@@ -2,6 +2,12 @@
 
 This repository include the second assignment work from the LEDE Program in data journalism.
 
+## Homeworks
+
+[Homework Part One](02. Lists + dictionaries/files/homework-2-part1.py)
+[Homework Part Two](02. Lists + dictionaries/files/homework-2-part2.py)
+[Homework Part Three](02. Lists + dictionaries/files/homework-2-part3.py)
+
 ## Instructions
 
 ### HOMEWORK PART ONE
