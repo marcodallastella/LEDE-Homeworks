@@ -28,7 +28,7 @@ This repository contains the exercises that I've worked on as a part of the Lede
 #### 05: Pandas basicts
 
 * [Assignment 1](./05.%20Pandas%20basics/01-Animals.ipynb) : Animals
-* [Assignment 2](./05.%20Pandas%basics/02-Billionaires.ipynb) : Billionaires
+* [Assignment 2](./05.%20Pandas%20basics/02-Billionaires.ipynb) : Billionaires
 
 ### Contact
 Marco Dalla Stella, [md3934@columbia.edu](mailto:md3934@columbia.edu)
