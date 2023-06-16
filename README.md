@@ -25,5 +25,10 @@ This repository contains the exercises that I've worked on as a part of the Lede
 * [Assignment 1](04.%20More%20API%20work%2C%20git/04.01%20Weather/) : WeatherAPI
 * [Assignment 2](04.%20More%20API%20work%2C%20git/04.02%20LastFM/) : LastFM API
 
+#### 05: Pandas basics
+
+* [Assignment 1](./05.%20Pandas%20basics/01-Animals.ipynb) : Animals
+* [Assignment 2](./05.%20Pandas%20basics/02-Billionaires.ipynb) : Billionaires
+
 ### Contact
 Marco Dalla Stella, [md3934@columbia.edu](mailto:md3934@columbia.edu)
