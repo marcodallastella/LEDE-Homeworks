@@ -30,5 +30,8 @@ This repository contains the exercises that I've worked on as a part of the Lede
 * [Assignment 1](./05.%20Pandas%20basics/01-Animals.ipynb) : Animals
 * [Assignment 2](./05.%20Pandas%20basics/02-Billionaires.ipynb) : Billionaires
 
+#### 06: Intro to scraping
+* [Assignment 1](./06.%20Intro%20to%20Scraping/homework-data-faculty.ipynb)
+
 ### Contact
 Marco Dalla Stella, [md3934@columbia.edu](mailto:md3934@columbia.edu)
