@@ -33,5 +33,8 @@ This repository contains the exercises that I've worked on as a part of the Lede
 #### 06: Intro to scraping
 * [Assignment 1](./06.%20Intro%20to%20Scraping/homework-data-faculty.ipynb)
 
+#### 07: Intermediate Scraping
+* [Assignment 1](./07. Intermediate Scraping/homework-tallest-buildings.ipynb)
+
 ### Contact
 Marco Dalla Stella, [md3934@columbia.edu](mailto:md3934@columbia.edu)
