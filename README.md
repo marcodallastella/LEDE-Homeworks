@@ -36,5 +36,8 @@ This repository contains the exercises that I've worked on as a part of the Lede
 #### 07: Scraping intermediate
 * [Assignment 1](./07.%20Intermediate%20Scraping/homework-tallest-buildings.ipynb)
 
+#### 08: Cleaning Data
+* [Assignment 1](./08.%20Cleaning%20Data/homework-cleaning.ipynb)
+
 ### Contact
 Marco Dalla Stella, [md3934@columbia.edu](mailto:md3934@columbia.edu)
