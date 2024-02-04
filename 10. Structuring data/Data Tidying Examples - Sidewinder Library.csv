@@ -1,0 +1,12 @@
+First Name,Last Name,Date of Birth,Library Card Expired?,Book,Author_A,Author_B,Genres,Days Late,Late Fees
+Danny,Torrance,1971-12-11,Yes,The Phantom Tollbooth,Norton Juster,Jules Feiffer,Fiction; Youth,15,$0.45
+Danny,Torrance,1971-12-11,Yes,A Wrinkle in Time,Madeleine L'Engle,-,Fiction; Youth,15,$0.45
+Jack,Torrance,1946-08-03,No,Pride and Prejudice,Jane Austen,-,Fiction,7,$0.70
+Jack,Torrance,1946-08-03,No,I Know Why the Caged Bird Sings,Maya Angelou,-,Nonfiction; Memoir,15,$1.50
+Jack,Torrance,1946-08-03,No,A Wrinkle in Time,Madeleine L'Engle,-,Fiction; Youth,15,$0.45
+Wendy,Torrance,1946-03-05,No,Emma,Jane Austen,-,Fiction,7,$0.70
+Wendy,Torrance,1946-03-05,No,The Electric Kool-Aid Acid Test,Tom Wolfe,-,Nonfiction,15,$4.50
+Wendy,Torrance,1946-03-05,No,The Communist Manifesto,Karl Marx,Friedrich Engels,Nonfiction,15,$6.00
+Wendy,Torrance,1946-03-05,No,A Wrinkle in Time,Madeleine L'Engle,-,Fiction; Youth,15,$0.45
+?,Massey,?,No,Pride and Prejudice,Jane Austen,-,Fiction,15,$1.50
+?,Massey,?,No,Slouching Towards Bethlehem,Joan Didion,-,Nonfiction,15,$1.50

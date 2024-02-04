@@ -1,0 +1,900 @@
+,provider_name,provider_id,quarter,score
+0,A Friend's House ,563,Q1,105.0
+1,A Friend's House ,563,Q2,108.15
+2,A Friend's House ,563,Q3,104.55
+3,A Friend's House ,563,Q4,108.21
+4,Advocates for Bartow's ChildrenFlowering Branch Children's Shelter,564,Q1,96.59
+5,Advocates for Bartow's ChildrenFlowering Branch Children's Shelter,564,Q2,92.75
+6,Advocates for Bartow's ChildrenFlowering Branch Children's Shelter,564,Q3,93.28
+7,Advocates for Bartow's ChildrenFlowering Branch Children's Shelter,564,Q4,90.98
+8,"Agape Behavioral Healthcare, Inc.",694,Q1,85.32
+9,"Agape Behavioral Healthcare, Inc.",694,Q2,78.53
+10,"Agape Behavioral Healthcare, Inc.",694,Q3,54.94
+11,"Agape Behavioral Healthcare, Inc.",694,Q4,72.67
+12,"Alyssa and Brothers, Inc. dba RowleyResidence #2 ",908,Q1,87.77
+13,"Alyssa and Brothers, Inc. dba RowleyResidence #2 ",908,Q2,97.53
+14,"Alyssa and Brothers, Inc. dba RowleyResidence #2 ",908,Q3,100.3
+15,"Alyssa and Brothers, Inc. dba RowleyResidence #2 ",908,Q4,94.22
+16,Appalachian Children's EmergencyShelter ,5167,Q3,104.0
+17,Appalachian Children's EmergencyShelter ,5167,Q4,72.57
+18,"Ark Family Counseling Center, TheRicky Homes/Dallas ",569,Q1,107.5
+19,"Ark Family Counseling Center, TheRicky Homes/Dallas ",569,Q2,97.47
+20,"Ark Family Counseling Center, TheRicky Homes/Dallas ",569,Q3,105.62
+21,"Ark Family Counseling Center, TheRicky Homes/Dallas ",569,Q4,104.01
+22,"Ark Family Counseling Center, TheRicky Homes/Decatur ",571,Q1,92.36
+23,"Ark Family Counseling Center, TheRicky Homes/Decatur ",571,Q2,99.1
+24,"Ark Family Counseling Center, TheRicky Homes/Decatur ",571,Q3,93.55
+25,"Ark Family Counseling Center, TheRicky Homes/Decatur ",571,Q4,105.67
+26,"Ark Family Counseling Center, TheRicky Homes/Lithonia ",591,Q1,104.92
+27,"Ark Family Counseling Center, TheRicky Homes/Lithonia ",591,Q2,101.99
+28,"Ark Family Counseling Center, TheRicky Homes/Lithonia ",591,Q3,103.64
+29,"Ark Family Counseling Center, TheRicky Homes/Lithonia ",591,Q4,103.64
+30,"Ark Family Counseling Center, TheRicky Homes/Powder Springs ",570,Q1,105.5
+31,"Ark Family Counseling Center, TheRicky Homes/Powder Springs ",570,Q2,109.67
+32,"Ark Family Counseling Center, TheRicky Homes/Powder Springs ",570,Q3,105.67
+33,"Ark Family Counseling Center, TheRicky Homes/Powder Springs ",570,Q4,105.67
+34,"Bald Ridge Lodge, Inc. Bald RidgeLodge ",4124,Q1,92.18
+35,"Bald Ridge Lodge, Inc. Bald RidgeLodge ",4124,Q2,94.95
+36,"Bald Ridge Lodge, Inc. Bald RidgeLodge ",4124,Q3,98.26
+37,"Bald Ridge Lodge, Inc. Bald RidgeLodge ",4124,Q4,96.48
+38,Behavioral Health Services of SouthGA dba Lowndes C & A North PointGroup Home (Valdosta) ,866,Q1,81.57
+39,Behavioral Health Services of SouthGA dba Lowndes C & A North PointGroup Home (Valdosta) ,866,Q2,81.13
+40,Behavioral Health Services of SouthGA dba Lowndes C & A North PointGroup Home (Valdosta) ,866,Q3,81.3
+41,Behavioral Health Services of SouthGA dba Lowndes C & A North PointGroup Home (Valdosta) ,866,Q4,81.26
+42,Beth-Ester Ministries dbaRestoration House 1 ,817,Q1,100.38
+43,Beth-Ester Ministries dbaRestoration House 1 ,817,Q2,101.49
+44,Beth-Ester Ministries dbaRestoration House 1 ,817,Q3,98.44
+45,Beth-Ester Ministries dbaRestoration House 1 ,817,Q4,100.57
+46,Broken Shackle Ranch ,576,Q1,97.9
+47,Broken Shackle Ranch ,576,Q2,98.27
+48,Broken Shackle Ranch ,576,Q3,101.25
+49,Broken Shackle Ranch ,576,Q4,100.75
+50,"Carl Malone Foundation, Inc. Mercy'sDoor - IV ",5142,Q1,27.5
+51,"Carl Malone Foundation, Inc. Mercy'sDoor - IV ",5142,Q2,77.17
+52,"Carl Malone Foundation, Inc. Mercy'sDoor - IV ",5142,Q3,93.9
+53,"Carl Malone Foundation, Inc. Mercy'sDoor - IV ",5142,Q4,98.93
+54,"Carl Malone Foundation, Inc. Mercy'sDoor I ",993,Q1,94.98
+55,"Carl Malone Foundation, Inc. Mercy'sDoor I ",993,Q2,98.24
+56,"Carl Malone Foundation, Inc. Mercy'sDoor I ",993,Q3,95.73
+57,"Carl Malone Foundation, Inc. Mercy'sDoor I ",993,Q4,96.49
+58,"Carl Malone Foundation, Inc. Mercy'sDoor II ",994,Q1,101.37
+59,"Carl Malone Foundation, Inc. Mercy'sDoor II ",994,Q2,102.91
+60,"Carl Malone Foundation, Inc. Mercy'sDoor II ",994,Q3,107.71
+61,"Carl Malone Foundation, Inc. Mercy'sDoor II ",994,Q4,97.09
+62,"Carl Malone Foundation, Inc. Mercy'sDoor III ",1041,Q1,106.5
+63,"Carl Malone Foundation, Inc. Mercy'sDoor III ",1041,Q2,107.6
+64,"Carl Malone Foundation, Inc. Mercy'sDoor III ",1041,Q3,107.43
+65,"Carl Malone Foundation, Inc. Mercy'sDoor III ",1041,Q4,100.87
+66,"Carrie Steele-Pitts Home, Inc. ",577,Q1,104.98
+67,"Carrie Steele-Pitts Home, Inc. ",577,Q2,101.1
+68,"Carrie Steele-Pitts Home, Inc. ",577,Q3,90.47
+69,"Carrie Steele-Pitts Home, Inc. ",577,Q4,101.18
+70,"Center for Children and YoungAdults, The Another Chance ",578,Q1,98.32
+71,"Center for Children and YoungAdults, The Another Chance ",578,Q2,95.29
+72,"Center for Children and YoungAdults, The Another Chance ",578,Q3,80.45
+73,"Center for Children and YoungAdults, The Another Chance ",578,Q4,90.66
+74,"Center for Children and YoungAdults, The Life Works (formerlyTurning Point) ",580,Q1,48.36
+75,"Center for Children and YoungAdults, The Life Works (formerlyTurning Point) ",580,Q2,39.4
+76,"Center for Children and YoungAdults, The Life Works (formerlyTurning Point) ",580,Q3,41.79
+77,"Center for Children and YoungAdults, The Life Works (formerlyTurning Point) ",580,Q4,53.08
+78,"Center for Children and YoungAdults, The Life Works Prep ",5114,Q1,41.95
+79,"Center for Children and YoungAdults, The Life Works Prep ",5114,Q2,46.38
+80,"Center for Children and YoungAdults, The Life Works Prep ",5114,Q3,43.85
+81,"Center for Children and YoungAdults, The Life Works Prep ",5114,Q4,30.06
+82,"Center for Children and YoungAdults, The Open Gate ",579,Q1,85.12
+83,"Center for Children and YoungAdults, The Open Gate ",579,Q2,86.7
+84,"Center for Children and YoungAdults, The Open Gate ",579,Q3,66.69
+85,"Center for Children and YoungAdults, The Open Gate ",579,Q4,69.89
+86,Chestnut Manor ,581,Q1,84.56
+87,Chestnut Manor ,581,Q2,80.34
+88,Chestnut Manor ,581,Q3,82.49
+89,Chestnut Manor ,581,Q4,80.8
+90,"CHRIS Kids, Inc. Dekalb ",597,Q1,94.15
+91,"CHRIS Kids, Inc. Dekalb ",597,Q2,90.4
+92,"CHRIS Kids, Inc. Dekalb ",597,Q3,82.17
+93,"CHRIS Kids, Inc. Dekalb ",597,Q4,88.99
+94,"CHRIS Kids, Inc. Douglas ",598,Q1,100.07
+95,"CHRIS Kids, Inc. Douglas ",598,Q2,97.21
+96,"CHRIS Kids, Inc. Douglas ",598,Q3,97.54
+97,"CHRIS Kids, Inc. Douglas ",598,Q4,91.88
+98,"CHRIS Kids, Inc. Ellenwood ",599,Q1,94.51
+99,"CHRIS Kids, Inc. Ellenwood ",599,Q2,85.7
+100,"CHRIS Kids, Inc. Ellenwood ",599,Q3,75.36
+101,"CHRIS Kids, Inc. Ellenwood ",599,Q4,84.42
+102,"CHRIS Kids, Inc. Fulton ",601,Q1,103.16
+103,"CHRIS Kids, Inc. Fulton ",601,Q2,100.18
+104,"CHRIS Kids, Inc. Fulton ",601,Q3,98.79
+105,"CHRIS Kids, Inc. Fulton ",601,Q4,104.59
+106,"CHRIS Kids, Inc. Gwinnett ",602,Q1,102.29
+107,"CHRIS Kids, Inc. Gwinnett ",602,Q2,93.06
+108,"CHRIS Kids, Inc. Gwinnett ",602,Q3,97.57
+109,"CHRIS Kids, Inc. Gwinnett ",602,Q4,93.71
+110,"CHRIS Kids, Inc. Rock Shadow ",617,Q1,91.03
+111,"CHRIS Kids, Inc. Rock Shadow ",617,Q2,96.33
+112,"CHRIS Kids, Inc. Rock Shadow ",617,Q3,96.22
+113,"CHRIS Kids, Inc. Rock Shadow ",617,Q4,103.54
+114,"CHRIS Kids, Inc. Sherwood ",604,Q1,99.66
+115,"CHRIS Kids, Inc. Sherwood ",604,Q2,93.03
+116,"CHRIS Kids, Inc. Sherwood ",604,Q3,95.5
+117,"CHRIS Kids, Inc. Sherwood ",604,Q4,99.55
+118,"CHRIS Kids, Inc. Stephenson ",605,Q1,91.04
+119,"CHRIS Kids, Inc. Stephenson ",605,Q2,86.48
+120,"CHRIS Kids, Inc. Stephenson ",605,Q3,84.99
+121,"CHRIS Kids, Inc. Stephenson ",605,Q4,92.99
+122,"CHRIS Kids, Inc. Summit Trail BoysILP ",4675,Q1,62.32
+123,"CHRIS Kids, Inc. Summit Trail BoysILP ",4675,Q2,61.01
+124,"CHRIS Kids, Inc. Summit Trail BoysILP ",4675,Q3,36.31
+125,"CHRIS Kids, Inc. Summit Trail BoysILP ",4675,Q4,57.59
+126,"CHRIS Kids, Inc. Summit Trail GirlsILP ",4674,Q1,67.99
+127,"CHRIS Kids, Inc. Summit Trail GirlsILP ",4674,Q2,55.87
+128,"CHRIS Kids, Inc. Summit Trail GirlsILP ",4674,Q3,35.13
+129,"CHRIS Kids, Inc. Summit Trail GirlsILP ",4674,Q4,60.15
+130,Christian City Home for Children,585,Q1,107.46
+131,Christian City Home for Children,585,Q2,103.01
+132,Christian City Home for Children,585,Q3,100.12
+133,Christian City Home for Children,585,Q4,100.84
+134,Community Growth Children'sAcademy ,5169,Q3,82.18
+135,Community Growth Children'sAcademy ,5169,Q4,96.51
+136,"Coweta Teen Mothers & BabeService Center, Inc. ",5145,Q1,97.33
+137,"Coweta Teen Mothers & BabeService Center, Inc. ",5145,Q2,75.53
+138,"Coweta Teen Mothers & BabeService Center, Inc. ",5145,Q3,56.45
+139,"Coweta Teen Mothers & BabeService Center, Inc. ",5145,Q4,64.36
+140,Deloach Group Home ,619,Q1,103.17
+141,Deloach Group Home ,619,Q2,101.27
+142,Deloach Group Home ,619,Q3,100.6
+143,Deloach Group Home ,619,Q4,103.0
+144,Devereux GA Treatment NetworkMAAC Plus ,5134,Q1,105.73
+145,Devereux GA Treatment NetworkMAAC Plus ,5134,Q2,98.13
+146,Devereux GA Treatment NetworkMAAC Plus ,5134,Q3,99.9
+147,Devereux GA Treatment NetworkMAAC Plus ,5134,Q4,101.29
+148,Devereux GA Treatment NetworkProject Plus ,4429,Q1,100.5
+149,Devereux GA Treatment NetworkProject Plus ,4429,Q2,102.75
+150,Devereux GA Treatment NetworkProject Plus ,4429,Q3,103.31
+151,Devereux GA Treatment NetworkProject Plus ,4429,Q4,102.19
+152,"Dream House Youth Services, Inc.(formerly Ctr for Creative Growth &Human Dvlpmt) House of Job ",4582,Q1,76.35
+153,"Dream House Youth Services, Inc.(formerly Ctr for Creative Growth &Human Dvlpmt) House of Job ",4582,Q2,78.41
+154,"Dream House Youth Services, Inc.(formerly Ctr for Creative Growth &Human Dvlpmt) House of Job ",4582,Q3,57.62
+155,"Dream House Youth Services, Inc.(formerly Ctr for Creative Growth &Human Dvlpmt) House of Job ",4582,Q4,66.46
+156,"Dream House Youth Services, Inc.(formerly Ctr for Creative Growth &Human Dvlpmt) House of Samuel",4581,Q1,82.2
+157,"Dream House Youth Services, Inc.(formerly Ctr for Creative Growth &Human Dvlpmt) House of Samuel",4581,Q2,78.39
+158,"Dream House Youth Services, Inc.(formerly Ctr for Creative Growth &Human Dvlpmt) House of Samuel",4581,Q3,57.93
+159,"Dream House Youth Services, Inc.(formerly Ctr for Creative Growth &Human Dvlpmt) House of Samuel",4581,Q4,74.77
+160,"Dream House Youth Services, Inc.(formerly Ctr for Creative Growth &Human Dvlpmt) Lighthouse ",956,Q1,76.2
+161,"Dream House Youth Services, Inc.(formerly Ctr for Creative Growth &Human Dvlpmt) Lighthouse ",956,Q2,77.57
+162,"Dream House Youth Services, Inc.(formerly Ctr for Creative Growth &Human Dvlpmt) Lighthouse ",956,Q3,67.02
+163,"Dream House Youth Services, Inc.(formerly Ctr for Creative Growth &Human Dvlpmt) Lighthouse ",956,Q4,71.93
+164,Elks Aidmore Children's Center ,628,Q1,99.28
+165,Elks Aidmore Children's Center ,628,Q2,95.81
+166,Elks Aidmore Children's Center ,628,Q3,94.73
+167,Elks Aidmore Children's Center ,628,Q4,98.28
+168,Elks Aidmore Children's CenterTransitional Living Program ,629,Q1,88.45
+169,Elks Aidmore Children's CenterTransitional Living Program ,629,Q2,80.53
+170,Elks Aidmore Children's CenterTransitional Living Program ,629,Q3,67.27
+171,Elks Aidmore Children's CenterTransitional Living Program ,629,Q4,85.94
+172,Embracing Arms ,944,Q1,92.91
+173,Embracing Arms ,944,Q2,104.61
+174,Embracing Arms ,944,Q3,100.57
+175,Embracing Arms ,944,Q4,101.39
+176,"ENA, Inc., dba NECCO (formerly GASAFE) Albany ILP ",5171,Q4,0.0
+177,"ENA, Inc., dba NECCO (formerly GASAFE) Jonesboro ILP ",5136,Q1,83.35
+178,"ENA, Inc., dba NECCO (formerly GASAFE) Jonesboro ILP ",5136,Q2,86.98
+179,"ENA, Inc., dba NECCO (formerly GASAFE) Jonesboro ILP ",5136,Q3,86.66
+180,"ENA, Inc., dba NECCO (formerly GASAFE) Jonesboro ILP ",5136,Q4,96.02
+181,"ENA, Inc., dba NECCO (formerly GASAFE) Macon ILP ",5172,Q3,102.0
+182,"ENA, Inc., dba NECCO (formerly GASAFE) Macon ILP ",5172,Q4,79.54
+183,"ENA, Inc., dba NECCO (formerly GASAFE) Martinez ILP ",5137,Q1,57.85
+184,"ENA, Inc., dba NECCO (formerly GASAFE) Martinez ILP ",5137,Q2,47.71
+185,"ENA, Inc., dba NECCO (formerly GASAFE) Martinez ILP ",5137,Q3,87.56
+186,"ENA, Inc., dba NECCO (formerly GASAFE) Martinez ILP ",5137,Q4,89.8
+187,Families First Cherokee Boys GroupHome ,637,Q1,100.59
+188,Families First Cherokee Boys GroupHome ,637,Q2,100.03
+189,Families First Cherokee Boys GroupHome ,637,Q3,76.56
+190,Families First Cherokee Boys GroupHome ,637,Q4,97.91
+191,Families First College Park BoysGroup Home ,638,Q1,99.57
+192,Families First College Park BoysGroup Home ,638,Q2,99.31
+193,Families First College Park BoysGroup Home ,638,Q3,86.47
+194,Families First College Park BoysGroup Home ,638,Q4,93.48
+195,Families First Gwindale Girls GroupHome ,640,Q1,106.22
+196,Families First Gwindale Girls GroupHome ,640,Q2,83.5
+197,Families First Gwindale Girls GroupHome ,640,Q3,59.03
+198,Families First Gwindale Girls GroupHome ,640,Q4,98.58
+199,Families First Independent LivingProgram ,643,Q1,82.15
+200,Families First Independent LivingProgram ,643,Q2,76.53
+201,Families First Independent LivingProgram ,643,Q3,82.61
+202,Families First Independent LivingProgram ,643,Q4,98.23
+203,Families First Second Chance Home,642,Q1,89.97
+204,Families First Second Chance Home,642,Q2,84.45
+205,Families First Second Chance Home,642,Q3,80.96
+206,Families First Second Chance Home,642,Q4,90.54
+207,Family Choices ,5153,Q2,108.0
+208,Family Choices ,5153,Q3,109.2
+209,Family Choices ,5153,Q4,102.54
+210,Family Community Care Centers(formerly Faith Child Caring Centers),634,Q1,86.27
+211,Family Community Care Centers(formerly Faith Child Caring Centers),634,Q2,81.91
+212,Family Community Care Centers(formerly Faith Child Caring Centers),634,Q3,84.86
+213,Family Community Care Centers(formerly Faith Child Caring Centers),634,Q4,86.1
+214,"Family Crisis Center of Walker, Dade,Catoosa, Chattooga Counties TheCottage ",645,Q1,109.92
+215,"Family Crisis Center of Walker, Dade,Catoosa, Chattooga Counties TheCottage ",645,Q2,110.0
+216,"Family Crisis Center of Walker, Dade,Catoosa, Chattooga Counties TheCottage ",645,Q3,104.77
+217,"Family Crisis Center of Walker, Dade,Catoosa, Chattooga Counties TheCottage ",645,Q4,107.48
+218,Family Support Council Oak HavenSecond Chance Home ,646,Q1,88.55
+219,Family Support Council Oak HavenSecond Chance Home ,646,Q2,102.09
+220,Family Support Council Oak HavenSecond Chance Home ,646,Q3,94.18
+221,Family Support Council Oak HavenSecond Chance Home ,646,Q4,86.49
+222,"Foundation Group Home, Inc. CCI",992,Q1,75.48
+223,"Foundation Group Home, Inc. CCI",992,Q2,74.76
+224,"Foundation Group Home, Inc. CCI",992,Q3,64.75
+225,"Foundation Group Home, Inc. CCI",992,Q4,62.64
+226,"Genesis House for Homeless, Inc.",654,Q1,97.02
+227,"Genesis House for Homeless, Inc.",654,Q2,97.24
+228,"Genesis House for Homeless, Inc.",654,Q3,81.98
+229,"Genesis House for Homeless, Inc.",654,Q4,99.86
+230,Georgia Baptist Children's Home &Family Ministries Alice's House ,663,Q1,108.83
+231,Georgia Baptist Children's Home &Family Ministries Alice's House ,663,Q2,108.59
+232,Georgia Baptist Children's Home &Family Ministries Alice's House ,663,Q3,98.9
+233,Georgia Baptist Children's Home &Family Ministries Alice's House ,663,Q4,103.42
+234,Georgia Baptist Children's Home &Family Ministries Angel's House,657,Q1,106.28
+235,Georgia Baptist Children's Home &Family Ministries Angel's House,657,Q2,109.92
+236,Georgia Baptist Children's Home &Family Ministries Angel's House,657,Q3,109.2
+237,Georgia Baptist Children's Home &Family Ministries Angel's House,657,Q4,108.57
+238,Georgia Baptist Children's Home &Family Ministries Baxley Campus,664,Q1,101.72
+239,Georgia Baptist Children's Home &Family Ministries Baxley Campus,664,Q2,96.44
+240,Georgia Baptist Children's Home &Family Ministries Baxley Campus,664,Q3,99.9
+241,Georgia Baptist Children's Home &Family Ministries Baxley Campus,664,Q4,92.47
+242,Georgia Baptist Children's Home &Family Ministries dba Good ShepherdThe ,685,Q1,99.08
+243,Georgia Baptist Children's Home &Family Ministries dba Good ShepherdThe ,685,Q2,101.36
+244,Georgia Baptist Children's Home &Family Ministries dba Good ShepherdThe ,685,Q3,105.36
+245,Georgia Baptist Children's Home &Family Ministries dba Good ShepherdThe ,685,Q4,104.01
+246,Georgia Baptist Children's Home &Family Ministries Fayette Program:Johnson Home ,660,Q1,103.05
+247,Georgia Baptist Children's Home &Family Ministries Fayette Program:Johnson Home ,660,Q2,100.12
+248,Georgia Baptist Children's Home &Family Ministries Fayette Program:Johnson Home ,660,Q3,100.35
+249,Georgia Baptist Children's Home &Family Ministries Fayette Program:Johnson Home ,660,Q4,92.37
+250,Georgia Baptist Children's Home &Family Ministries Maternity Home,662,Q1,99.67
+251,Georgia Baptist Children's Home &Family Ministries Maternity Home,662,Q2,91.34
+252,Georgia Baptist Children's Home &Family Ministries Maternity Home,662,Q3,92.01
+253,Georgia Baptist Children's Home &Family Ministries Maternity Home,662,Q4,99.26
+254,Georgia Baptist Children's Home &Family Ministries Meansville Campus,666,Q1,99.93
+255,Georgia Baptist Children's Home &Family Ministries Meansville Campus,666,Q2,103.38
+256,Georgia Baptist Children's Home &Family Ministries Meansville Campus,666,Q3,96.09
+257,Georgia Baptist Children's Home &Family Ministries Meansville Campus,666,Q4,99.57
+258,Georgia Baptist Children's Home &Family Ministries Palmetto Campus,864,Q1,93.53
+259,Georgia Baptist Children's Home &Family Ministries Palmetto Campus,864,Q2,89.03
+260,Georgia Baptist Children's Home &Family Ministries Palmetto Campus,864,Q3,90.49
+261,Georgia Baptist Children's Home &Family Ministries Palmetto Campus,864,Q4,86.23
+262,Georgia Sheriff's Youth Home dbaBoys Ranch ,676,Q1,104.0
+263,Georgia Sheriff's Youth Home dbaBoys Ranch ,676,Q2,105.75
+264,Georgia Sheriff's Youth Home dbaBoys Ranch ,676,Q3,92.33
+265,Georgia Sheriff's Youth Home dbaBoys Ranch ,676,Q4,105.11
+266,Georgia Sheriff's Youth Home dbaCherokee Estate ,677,Q1,105.92
+267,Georgia Sheriff's Youth Home dbaCherokee Estate ,677,Q2,106.45
+268,Georgia Sheriff's Youth Home dbaCherokee Estate ,677,Q3,105.24
+269,Georgia Sheriff's Youth Home dbaCherokee Estate ,677,Q4,99.03
+270,Georgia Sheriff's Youth Home dbaHerrington Homes ,678,Q1,68.94
+271,Georgia Sheriff's Youth Home dbaHerrington Homes ,678,Q2,97.51
+272,Georgia Sheriff's Youth Home dbaHerrington Homes ,678,Q3,97.51
+273,Georgia Sheriff's Youth Home dbaHerrington Homes ,678,Q4,99.3
+274,Georgia Sheriff's Youth Home dbaMountainview ,963,Q1,105.42
+275,Georgia Sheriff's Youth Home dbaMountainview ,963,Q2,104.47
+276,Georgia Sheriff's Youth Home dbaMountainview ,963,Q3,101.32
+277,Georgia Sheriff's Youth Home dbaMountainview ,963,Q4,95.73
+278,Georgia Sheriff's Youth Home dbaPineland ,679,Q1,103.07
+279,Georgia Sheriff's Youth Home dbaPineland ,679,Q2,103.59
+280,Georgia Sheriff's Youth Home dbaPineland ,679,Q3,106.67
+281,Georgia Sheriff's Youth Home dbaPineland ,679,Q4,103.4
+282,Goshen Valley Foundation dbaGoshen Valley Boy's Ranch ,687,Q1,104.32
+283,Goshen Valley Foundation dbaGoshen Valley Boy's Ranch ,687,Q2,109.85
+284,Goshen Valley Foundation dbaGoshen Valley Boy's Ranch ,687,Q3,107.6
+285,Goshen Valley Foundation dbaGoshen Valley Boy's Ranch ,687,Q4,108.95
+286,Goshen Valley Foundation NorthGeorgia New Beginnings ,5130,Q1,109.78
+287,Goshen Valley Foundation NorthGeorgia New Beginnings ,5130,Q2,107.79
+288,Goshen Valley Foundation NorthGeorgia New Beginnings ,5130,Q3,104.82
+289,Goshen Valley Foundation NorthGeorgia New Beginnings ,5130,Q4,109.79
+290,Greenbriar Children's Center ,688,Q1,93.49
+291,Greenbriar Children's Center ,688,Q2,94.4
+292,Greenbriar Children's Center ,688,Q3,94.64
+293,Greenbriar Children's Center ,688,Q4,86.29
+294,Greenbriar Children's Center ILPProgram ,5118,Q1,37.48
+295,Greenbriar Children's Center ILPProgram ,5118,Q2,35.66
+296,Greenbriar Children's Center ILPProgram ,5118,Q3,39.9
+297,Greenbriar Children's Center ILPProgram ,5118,Q4,38.92
+298,"HARP Foundation, Inc. DouglasCampus ",1022,Q1,83.19
+299,"HARP Foundation, Inc. DouglasCampus ",1022,Q2,77.29
+300,"HARP Foundation, Inc. DouglasCampus ",1022,Q3,72.06
+301,"HARP Foundation, Inc. VidaliaCampus ",693,Q1,97.7
+302,"HARP Foundation, Inc. VidaliaCampus ",693,Q2,107.58
+303,"HARP Foundation, Inc. VidaliaCampus ",693,Q3,101.46
+304,"HARP Foundation, Inc. VidaliaCampus ",693,Q4,100.17
+305,Haven Heart's CommunityDevelopment Center Have A HeartFor Heaven ,5151,Q2,47.15
+306,Haven Heart's CommunityDevelopment Center Have A HeartFor Heaven ,5151,Q3,61.32
+307,Haven Heart's CommunityDevelopment Center Have A HeartFor Heaven ,5151,Q4,74.89
+308,Haven Heart's Community DevelopmentCenter Haven Heart's CommunityDevelopment Center ,921,Q1,93.2
+309,Haven Heart's Community DevelopmentCenter Haven Heart's CommunityDevelopment Center ,921,Q2,83.99
+310,Haven Heart's CommunityDevelopment Center Making ADifference ,5152,Q1,39.14
+311,Haven Heart's CommunityDevelopment Center Making ADifference ,5152,Q2,56.79
+312,Haven Heart's CommunityDevelopment Center Making ADifference ,5152,Q3,57.6
+313,Haven Heart's CommunityDevelopment Center Making ADifference ,5152,Q4,66.27
+314,Hephzibah Children's Home ,695,Q1,88.04
+315,Hephzibah Children's Home ,695,Q2,87.42
+316,Hephzibah Children's Home ,695,Q3,89.93
+317,Hephzibah Children's Home ,695,Q4,91.53
+318,Hephzibah Children's Home SecondChance Home ,4625,Q1,86.89
+319,Hephzibah Children's Home SecondChance Home ,4625,Q2,87.11
+320,Hephzibah Children's Home SecondChance Home ,4625,Q3,87.51
+321,Hephzibah Children's Home SecondChance Home ,4625,Q4,89.44
+322,House of Dawn ILP ,5155,Q3,100.0
+323,House of Dawn ILP ,5155,Q4,100.0
+324,House of Dawn Second Chance Home,918,Q1,100.33
+325,House of Dawn Second Chance Home,918,Q2,100.83
+326,House of Dawn Second Chance Home,918,Q3,95.33
+327,House of Dawn Second Chance Home,918,Q4,100.7
+328,House of Inspiration ,706,Q1,89.55
+329,House of Inspiration ,706,Q2,88.62
+330,House of Inspiration ,706,Q3,87.91
+331,House of Inspiration ,706,Q4,79.68
+332,Jesse's House ,614,Q1,101.36
+333,Jesse's House ,614,Q2,105.52
+334,Jesse's House ,614,Q3,99.99
+335,Jesse's House ,614,Q4,90.05
+336,Kidspeace Bowdon ResidentialCampus ,715,Q1,104.57
+337,Kidspeace Bowdon ResidentialCampus ,715,Q2,103.9
+338,Kidspeace Bowdon ResidentialCampus ,715,Q3,87.37
+339,Kidspeace Bowdon ResidentialCampus ,715,Q4,98.31
+340,Liberty County Children's Home dbaGabriel's House ,725,Q1,104.82
+341,Liberty County Children's Home dbaGabriel's House ,725,Q2,109.9
+342,Liberty County Children's Home dbaGabriel's House ,725,Q3,107.6
+343,Liberty County Children's Home dbaGabriel's House ,725,Q4,108.55
+344,"Light of Hope and Love Ministry, Inc.Heritage House TLP ",5143,Q1,68.37
+345,"Light of Hope and Love Ministry, Inc.Heritage House TLP ",5143,Q2,63.31
+346,"Light of Hope and Love Ministry, Inc.Heritage House TLP ",5143,Q3,72.85
+347,"Light of Hope and Love Ministry, Inc.Heritage House TLP ",5143,Q4,80.65
+348,"Little Debbie's Second Chance Home,Inc. ",1042,Q1,84.93
+349,"Little Debbie's Second Chance Home,Inc. ",1042,Q2,90.38
+350,"Little Debbie's Second Chance Home,Inc. ",1042,Q3,74.27
+351,"Little Debbie's Second Chance Home,Inc. ",1042,Q4,67.27
+352,"Little Debbie's Second Chance Home,Inc. (formerly Celine's Place) ",884,Q1,91.63
+353,"Little Debbie's Second Chance Home,Inc. (formerly Celine's Place) ",884,Q2,89.55
+354,"Little Debbie's Second Chance Home,Inc. (formerly Celine's Place) ",884,Q3,83.44
+355,"Little Debbie's Second Chance Home,Inc. (formerly Celine's Place) ",884,Q4,92.83
+356,"Little Debbie's Second Chance Home,Inc. dba Ida's Cove III ",5111,Q1,95.09
+357,"Little Debbie's Second Chance Home,Inc. dba Ida's Cove III ",5111,Q2,95.85
+358,"Little Debbie's Second Chance Home,Inc. dba Ida's Cove III ",5111,Q3,94.08
+359,"Little Debbie's Second Chance Home,Inc. dba Ida's Cove III ",5111,Q4,104.92
+360,"Little Debbie's Second Chance Home,Inc. Ellenwood Second Chance Home",966,Q1,83.04
+361,"Little Debbie's Second Chance Home,Inc. Ellenwood Second Chance Home",966,Q2,93.4
+362,"Little Debbie's Second Chance Home,Inc. Ellenwood Second Chance Home",966,Q3,81.55
+363,"Little Debbie's Second Chance Home,Inc. Ellenwood Second Chance Home",966,Q4,96.69
+364,"Little Debbie's Second Chance Home,Inc. Joseph Ladder ",5133,Q1,98.8
+365,"Little Debbie's Second Chance Home,Inc. Joseph Ladder ",5133,Q2,97.54
+366,"Little Debbie's Second Chance Home,Inc. Joseph Ladder ",5133,Q3,106.65
+367,"Little Debbie's Second Chance Home,Inc. Joseph Ladder ",5133,Q4,99.17
+368,"Little Debbie's Second Chance Home,Inc. Maternity Home ",5139,Q1,100.93
+369,"Little Debbie's Second Chance Home,Inc. Maternity Home ",5139,Q2,101.8
+370,"Little Debbie's Second Chance Home,Inc. Maternity Home ",5139,Q3,90.37
+371,"Little Debbie's Second Chance Home,Inc. Maternity Home ",5139,Q4,102.94
+372,"Little Debbie's Second Chance Home,Inc. TLP ",967,Q1,80.08
+373,"Little Debbie's Second Chance Home,Inc. TLP ",967,Q2,96.32
+374,"Little Debbie's Second Chance Home,Inc. TLP ",967,Q3,79.87
+375,"Little Debbie's Second Chance Home,Inc. TLP ",967,Q4,99.56
+376,Mentoring Youth Services ,5122,Q1,86.14
+377,Mentoring Youth Services ,5122,Q2,85.6
+378,Mentoring Youth Services ,5122,Q3,94.75
+379,Mentoring Youth Services ,5122,Q4,98.68
+380,Mentoring Youth Services ILP ,5165,Q3,100.0
+381,Mentoring Youth Services ILP ,5165,Q4,47.6
+382,"Methodist Home for Children & Youth, TheArabella ",1016,Q1,104.78
+383,"Methodist Home for Children & Youth, TheArabella ",1016,Q2,105.13
+384,"Methodist Home for Children & Youth, TheArabella ",1016,Q3,102.02
+385,"Methodist Home for Children & Youth, TheArabella ",1016,Q4,99.94
+386,"Methodist Home for Children & Youth,The dba Americus Group Home ",749,Q1,95.07
+387,"Methodist Home for Children & Youth,The dba Americus Group Home ",749,Q2,92.82
+388,"Methodist Home for Children & Youth,The dba Americus Group Home ",749,Q3,90.54
+389,"Methodist Home for Children & Youth,The dba Americus Group Home ",749,Q4,94.44
+390,"Methodist Home for Children & Youth,The dba St. Marys Group Home ",750,Q1,107.16
+391,"Methodist Home for Children & Youth,The dba St. Marys Group Home ",750,Q2,106.89
+392,"Methodist Home for Children & Youth,The dba St. Marys Group Home ",750,Q3,106.7
+393,"Methodist Home for Children & Youth,The dba St. Marys Group Home ",750,Q4,105.03
+394,"Methodist Home for Children & Youth, Thedba Valdosta Group Home ",752,Q1,108.8
+395,"Methodist Home for Children & Youth, Thedba Valdosta Group Home ",752,Q2,105.23
+396,"Methodist Home for Children & Youth, Thedba Valdosta Group Home ",752,Q3,109.04
+397,"Methodist Home for Children & Youth, Thedba Valdosta Group Home ",752,Q4,102.32
+398,"Methodist Home for Children & Youth,The Macon ",754,Q1,99.55
+399,"Methodist Home for Children & Youth,The Macon ",754,Q2,97.39
+400,"Methodist Home for Children & Youth,The Macon ",754,Q3,94.09
+401,"Methodist Home for Children & Youth,The Macon ",754,Q4,97.8
+402,"Methodist Home for Children & Youth, TheOur House at Carpenter's Way Ranch",1015,Q1,101.33
+403,"Methodist Home for Children & Youth, TheOur House at Carpenter's Way Ranch",1015,Q2,102.79
+404,"Methodist Home for Children & Youth, TheOur House at Carpenter's Way Ranch",1015,Q3,96.62
+405,"Methodist Home for Children & Youth, TheOur House at Carpenter's Way Ranch",1015,Q4,100.79
+406,"Methodist Home for Children & Youth,The STARS Program ",753,Q1,108.37
+407,"Methodist Home for Children & Youth,The STARS Program ",753,Q2,107.38
+408,"Methodist Home for Children & Youth,The STARS Program ",753,Q3,103.37
+409,"Methodist Home for Children & Youth,The STARS Program ",753,Q4,109.33
+410,Morningstar Children and FamilyServices Morningstar Youth EstateCenter-Residential Program ,764,Q1,99.1
+411,Morningstar Children and FamilyServices Morningstar Youth EstateCenter-Residential Program ,764,Q2,88.31
+412,Morningstar Children and FamilyServices Morningstar Youth EstateCenter-Residential Program ,764,Q3,85.6
+413,Morningstar Children and FamilyServices Morningstar Youth EstateCenter-Residential Program ,764,Q4,100.44
+414,"Mountain Top Boys' Home, Inc. ",888,Q1,99.85
+415,"Mountain Top Boys' Home, Inc. ",888,Q2,98.86
+416,"Mountain Top Boys' Home, Inc. ",888,Q3,104.62
+417,"Mountain Top Boys' Home, Inc. ",888,Q4,90.3
+418,Murphy-Harpst Children's Centers,770,Q1,99.55
+419,Murphy-Harpst Children's Centers,770,Q2,99.44
+420,Murphy-Harpst Children's Centers,770,Q3,95.75
+421,Murphy-Harpst Children's Centers,770,Q4,98.51
+422,North Georgia Angel House ,925,Q1,106.92
+423,North Georgia Angel House ,925,Q2,105.42
+424,North Georgia Angel House ,925,Q3,104.16
+425,North Georgia Angel House ,925,Q4,106.28
+426,North Georgia Angel House ILP ,5126,Q1,84.1
+427,North Georgia Angel House ILP ,5126,Q2,74.98
+428,North Georgia Angel House ILP ,5126,Q3,94.78
+429,North Georgia Angel House ILP ,5126,Q4,92.46
+430,Northwest Georgia Girls Home ,779,Q1,87.98
+431,Northwest Georgia Girls Home ,779,Q2,90.22
+432,Northwest Georgia Girls Home ,779,Q3,91.31
+433,Northwest Georgia Girls Home ,779,Q4,84.21
+434,Open Arms Bridge I - Miller Rd. ,787,Q1,78.38
+435,Open Arms Bridge I - Miller Rd. ,787,Q2,81.84
+436,Open Arms Bridge I - Miller Rd. ,787,Q3,75.12
+437,Open Arms Bridge I - Miller Rd. ,787,Q4,79.39
+438,Open Arms Children's Network dbaOrdered Steps Home for Girls ,4320,Q1,98.53
+439,Open Arms Children's Network dbaOrdered Steps Home for Girls ,4320,Q2,97.19
+440,Open Arms Children's Network dbaOrdered Steps Home for Girls ,4320,Q3,96.32
+441,Open Arms Children's Network dbaOrdered Steps Home for Girls ,4320,Q4,103.9
+442,"Open Arms of Blue Ridge, Inc. ",5135,Q1,98.75
+443,"Open Arms of Blue Ridge, Inc. ",5135,Q2,87.09
+444,"Open Arms of Blue Ridge, Inc. ",5135,Q3,82.21
+445,"Open Arms of Blue Ridge, Inc. ",5135,Q4,89.44
+446,Open Door Home Boys Annex LongTerm Program ,940,Q1,87.75
+447,Open Door Home Boys Annex LongTerm Program ,940,Q2,91.15
+448,Open Door Home Boys Annex LongTerm Program ,940,Q3,88.2
+449,Open Door Home Boys Annex LongTerm Program ,940,Q4,90.68
+450,Open Door Home Boys ILP ,5132,Q1,94.13
+451,Open Door Home Boys ILP ,5132,Q2,54.85
+452,Open Door Home Boys ILP ,5132,Q3,77.55
+453,Open Door Home Boys ILP ,5132,Q4,65.13
+454,Open Door Home Girls Annex LongTerm Program ,939,Q1,94.75
+455,Open Door Home Girls Annex LongTerm Program ,939,Q2,96.34
+456,Open Door Home Girls Annex LongTerm Program ,939,Q3,93.13
+457,Open Door Home Girls Annex LongTerm Program ,939,Q4,93.98
+458,Open Door Home Girls ILP ,5131,Q1,92.31
+459,Open Door Home Girls ILP ,5131,Q2,64.4
+460,Open Door Home Girls ILP ,5131,Q3,81.19
+461,Open Door Home Girls ILP ,5131,Q4,100.81
+462,Our House for Kids ,792,Q1,79.82
+463,Our House for Kids ,792,Q2,83.46
+464,Our House for Kids ,792,Q3,94.33
+465,Our House for Kids ,792,Q4,103.45
+466,Park Place Outreach (formerlyMarshland Foundation) ,732,Q1,102.04
+467,Park Place Outreach (formerlyMarshland Foundation) ,732,Q2,98.41
+468,Park Place Outreach (formerlyMarshland Foundation) ,732,Q3,101.95
+469,Park Place Outreach (formerlyMarshland Foundation) ,732,Q4,98.52
+470,Positive Growth Ponce De Leon Ave.,795,Q1,84.36
+471,Positive Growth Ponce De Leon Ave.,795,Q2,85.05
+472,Positive Growth Ponce De Leon Ave.,795,Q3,89.61
+473,Positive Growth Ponce De Leon Ave.,795,Q4,82.08
+474,Positive Growth Ponce de Leon Ave.II ,955,Q1,75.81
+475,Positive Growth Ponce de Leon Ave.II ,955,Q2,89.83
+476,Positive Growth Ponce de Leon Ave.II ,955,Q3,100.65
+477,Positive Growth Ponce de Leon Ave.II ,955,Q4,96.76
+478,Psychiatric Solutions (formerly HHCAugusta) Lighthouse of Augusta,726,Q1,71.44
+479,Psychiatric Solutions (formerly HHCAugusta) Lighthouse of Augusta,726,Q2,72.95
+480,Psychiatric Solutions (formerly HHCAugusta) Lighthouse of Augusta,726,Q3,72.56
+481,Psychiatric Solutions (formerly HHCAugusta) Lighthouse of Augusta,726,Q4,77.85
+482,Rainbow Children's Home ,809,Q1,92.47
+483,Rainbow Children's Home ,809,Q2,85.37
+484,Rainbow Children's Home ,809,Q3,86.31
+485,Rainbow Children's Home ,809,Q4,84.66
+486,Rainbow House Emergency Shelter forChildren ,810,Q1,82.13
+487,Rainbow House Emergency Shelter forChildren ,810,Q2,82.03
+488,Rainbow House Emergency Shelter forChildren ,810,Q3,61.67
+489,Rainbow House Emergency Shelter forChildren ,810,Q4,80.86
+490,Raintree Village Lowndes County,811,Q1,84.61
+491,Raintree Village Lowndes County,811,Q2,92.81
+492,Raintree Village Lowndes County,811,Q3,96.82
+493,Raintree Village Lowndes County,811,Q4,93.34
+494,Raintree Village Second Chance,4587,Q1,90.85
+495,Raintree Village Second Chance,4587,Q2,92.08
+496,Raintree Village Second Chance,4587,Q3,97.81
+497,Raintree Village Second Chance,4587,Q4,96.79
+498,"Refuge House, The ",945,Q1,96.12
+499,"Refuge House, The ",945,Q2,98.62
+500,"Refuge House, The ",945,Q3,95.57
+501,"Refuge House, The ",945,Q4,92.72
+502,"Res-Care, Inc. (formerly AlternativeYouth Services, Inc.) dba GeorgiaCenter for Youth ",667,Q1,80.21
+503,"Res-Care, Inc. (formerly AlternativeYouth Services, Inc.) dba GeorgiaCenter for Youth ",667,Q2,86.43
+504,"Res-Care, Inc. (formerly AlternativeYouth Services, Inc.) dba GeorgiaCenter for Youth ",667,Q3,86.26
+505,"Res-Care, Inc. (formerly AlternativeYouth Services, Inc.) dba GeorgiaCenter for Youth ",667,Q4,85.72
+506,"Safe Harbor Children's Center, Inc.",820,Q1,98.79
+507,"Safe Harbor Children's Center, Inc.",820,Q2,99.05
+508,"Safe Harbor Children's Center, Inc.",820,Q3,99.88
+509,"Safe Harbor Children's Center, Inc.",820,Q4,103.21
+510,Seeds of Excellence ,5154,Q2,105.61
+511,Seeds of Excellence ,5154,Q3,100.63
+512,Seeds of Excellence ,5154,Q4,85.14
+513,Smith Group Home ,824,Q1,101.08
+514,Smith Group Home ,824,Q2,100.24
+515,Smith Group Home ,824,Q3,104.57
+516,Smith Group Home ,824,Q4,106.05
+517,Star Island ,1021,Q1,89.34
+518,Star Island ,1021,Q2,89.78
+519,Star Island ,1021,Q3,67.6
+520,Star Island ,1021,Q4,81.86
+521,Stroman Account & Property dba MySister's Keeper ,892,Q1,101.94
+522,Stroman Account & Property dba MySister's Keeper ,892,Q2,97.54
+523,Stroman Account & Property dba MySister's Keeper ,892,Q3,98.62
+524,Stroman Account & Property dba MySister's Keeper ,892,Q4,101.51
+525,Stroman Account & Property ILPCollege Park ,5157,Q2,40.58
+526,Stroman Account & Property ILPCollege Park ,5157,Q3,44.42
+527,Stroman Account & Property ILPCollege Park ,5157,Q4,92.76
+528,Stroman Account & Property ILPUnion City ,5156,Q3,47.34
+529,Stroman Account & Property ILPUnion City ,5156,Q4,80.99
+530,Taking A Step Beyond ,5158,Q2,94.77
+531,Taking A Step Beyond ,5158,Q3,96.07
+532,Taking A Step Beyond ,5158,Q4,98.71
+533,"Treutlen House at New Ebenezer,Inc. ",4228,Q1,99.43
+534,"Treutlen House at New Ebenezer,Inc. ",4228,Q2,100.96
+535,"Treutlen House at New Ebenezer,Inc. ",4228,Q3,91.72
+536,"Treutlen House at New Ebenezer,Inc. ",4228,Q4,100.8
+537,Turning Point Homes Ahmonie'sCottage ,1003,Q1,90.16
+538,Turning Point Homes Ahmonie'sCottage ,1003,Q2,87.3
+539,Turning Point Homes Ahmonie'sCottage ,1003,Q3,81.35
+540,Turning Point Homes Ahmonie'sCottage ,1003,Q4,92.54
+541,Turning Point Homes Callahan'sCottage ,828,Q1,85.1
+542,Turning Point Homes Callahan'sCottage ,828,Q2,81.72
+543,Turning Point Homes Callahan'sCottage ,828,Q3,74.47
+544,Turning Point Homes Callahan'sCottage ,828,Q4,82.78
+545,Turning Point Homes FrancoisCottage ,829,Q1,86.94
+546,Turning Point Homes FrancoisCottage ,829,Q2,79.18
+547,Turning Point Homes FrancoisCottage ,829,Q3,87.11
+548,Turning Point Homes FrancoisCottage ,829,Q4,74.2
+549,Turning Point Homes IndependentLiving Program ,832,Q1,47.62
+550,Turning Point Homes IndependentLiving Program ,832,Q2,40.21
+551,Turning Point Homes IndependentLiving Program ,832,Q3,36.28
+552,Turning Point Homes IndependentLiving Program ,832,Q4,63.65
+553,Turning Point Homes Joshua CottageI ,830,Q1,98.33
+554,Turning Point Homes Turning PointCottage ,833,Q1,77.55
+555,Turning Point Homes Turning PointCottage ,833,Q2,73.16
+556,Turning Point Homes Turning PointCottage ,833,Q3,79.41
+557,Turning Point Homes Turning PointCottage ,833,Q4,69.75
+558,Twin Cedars Youth Services(formerly Georgia IndustrialChildren's Home) Campus of TwinCedar Youth Service ,4340,Q1,86.41
+559,Twin Cedars Youth Services(formerly Georgia IndustrialChildren's Home) Campus of TwinCedar Youth Service ,4340,Q2,98.94
+560,Twin Cedars Youth Services(formerly Georgia IndustrialChildren's Home) Campus of TwinCedar Youth Service ,4340,Q3,95.88
+561,Twin Cedars Youth Services(formerly Georgia IndustrialChildren's Home) Campus of TwinCedar Youth Service ,4340,Q4,105.28
+562,Twin Cedars Youth Services AnneElizabeth Shepherd ,835,Q1,89.73
+563,Twin Cedars Youth Services AnneElizabeth Shepherd ,835,Q2,91.49
+564,Twin Cedars Youth Services AnneElizabeth Shepherd ,835,Q3,95.49
+565,Twin Cedars Youth Services AnneElizabeth Shepherd ,835,Q4,96.56
+566,Twin Cedars Youth Services AnnetteBoyd Group Home ,838,Q1,105.01
+567,Twin Cedars Youth Services AnnetteBoyd Group Home ,838,Q2,100.78
+568,Twin Cedars Youth Services AnnetteBoyd Group Home ,838,Q3,102.93
+569,Twin Cedars Youth Services AnnetteBoyd Group Home ,838,Q4,106.02
+570,Twin Cedars Youth Services BradfieldCenter ,846,Q1,90.09
+571,Twin Cedars Youth Services BradfieldCenter ,846,Q2,95.73
+572,Twin Cedars Youth Services BradfieldCenter ,846,Q3,96.45
+573,Twin Cedars Youth Services BradfieldCenter ,846,Q4,95.05
+574,Twin Cedars Youth ServicesConnections ,837,Q1,102.12
+575,Twin Cedars Youth ServicesConnections ,837,Q2,104.27
+576,Twin Cedars Youth ServicesConnections ,837,Q3,107.27
+577,Twin Cedars Youth ServicesConnections ,837,Q4,107.05
+578,Twin Cedars Youth ServicesMagnolia Second Chance Home ,844,Q1,93.52
+579,Twin Cedars Youth ServicesMagnolia Second Chance Home ,844,Q2,94.85
+580,Twin Cedars Youth ServicesMagnolia Second Chance Home ,844,Q3,102.43
+581,Twin Cedars Youth ServicesMagnolia Second Chance Home ,844,Q4,97.14
+582,Twin Cedars Youth Services RealityHouse ,841,Q1,104.33
+583,Twin Cedars Youth Services RealityHouse ,841,Q2,99.09
+584,Twin Cedars Youth Services RealityHouse ,841,Q3,105.42
+585,Twin Cedars Youth Services RealityHouse ,841,Q4,101.32
+586,Twin Cedars Youth ServicesWeracoba Second Chance Home,937,Q1,87.86
+587,Twin Cedars Youth ServicesWeracoba Second Chance Home,937,Q2,86.55
+588,Twin Cedars Youth ServicesWeracoba Second Chance Home,937,Q3,91.03
+589,Twin Cedars Youth ServicesWeracoba Second Chance Home,937,Q4,85.73
+590,United Methodist Children Home ofthe North GA ConferenceIndependent Living Program ,4428,Q1,95.76
+591,United Methodist Children Home ofthe North GA ConferenceIndependent Living Program ,4428,Q2,100.12
+592,United Methodist Children Home ofthe North GA ConferenceIndependent Living Program ,4428,Q3,94.2
+593,United Methodist Children Home ofthe North GA ConferenceIndependent Living Program ,4428,Q4,97.75
+594,United Methodist Children Home ofthe North GA Conference On-CampusTransitional Living Program (Hybrid),849,Q1,100.78
+595,United Methodist Children Home ofthe North GA Conference On-CampusTransitional Living Program (Hybrid),849,Q2,100.98
+596,United Methodist Children Home ofthe North GA Conference On-CampusTransitional Living Program (Hybrid),849,Q3,102.36
+597,United Methodist Children Home ofthe North GA Conference On-CampusTransitional Living Program (Hybrid),849,Q4,101.1
+598,United Methodist Children Home ofthe North GA Conference SecondChance ,5123,Q1,102.92
+599,Vanessa's Place ,5162,Q2,74.0
+600,Vanessa's Place ,5162,Q3,74.0
+601,Vanessa's Place ,5162,Q4,83.82
+602,"Vashti Center, The ",852,Q1,97.65
+603,"Vashti Center, The ",852,Q2,99.33
+604,"Vashti Center, The ",852,Q3,104.16
+605,"Vashti Center, The ",852,Q4,95.46
+606,Vision Youth Services Boys ,5125,Q1,85.23
+607,Vision Youth Services Boys ,5125,Q2,89.06
+608,Vision Youth Services Boys ,5125,Q3,85.43
+609,Vision Youth Services Boys ,5125,Q4,97.43
+610,Vision Youth Services Girls ,5124,Q1,85.17
+611,Vision Youth Services Girls ,5124,Q2,87.17
+612,Vision Youth Services Girls ,5124,Q3,78.11
+613,Vision Youth Services Girls ,5124,Q4,81.64
+614,Visions of Hope for Boys ,978,Q1,90.5
+615,Visions of Hope for Boys ,978,Q2,90.2
+616,Visions of Hope for Boys ,978,Q3,95.29
+617,Visions of Hope for Boys ,978,Q4,83.83
+618,"Wellspring Living, Inc. ",5168,Q3,65.27
+619,"Wellspring Living, Inc. ",5168,Q4,78.53
+620,"Young Adult Guidance Center, The",860,Q1,74.81
+621,"Young Adult Guidance Center, The",860,Q2,68.39
+622,"Young Adult Guidance Center, The",860,Q3,64.75
+623,"Young Adult Guidance Center, The",860,Q4,74.48
+624,Youth Villages (Inner HarbourCampus) Douglas Center: Girls ,624,Q1,97.87
+625,Youth Villages (Inner HarbourCampus) Douglas Center: Girls ,624,Q2,102.94
+626,Youth Villages (Inner HarbourCampus) Douglas Center: Girls ,624,Q3,102.1
+627,Youth Villages (Inner HarbourCampus) Douglas Center: Girls ,624,Q4,99.59
+628,Youth Villages (Inner HarbourCampus) Douglasville: The RanchBoys ,711,Q1,85.7
+629,Youth Villages (Inner HarbourCampus) Douglasville: The RanchBoys ,711,Q2,77.8
+630,Youth Villages (Inner HarbourCampus) Douglasville: The RanchBoys ,711,Q3,95.52
+631,Youth Villages (Inner HarbourCampus) Douglasville: The RanchBoys ,711,Q4,104.35
+632,Youth Villages (Inner HarbourCampus) EXCEL Program: Boys,1027,Q1,87.83
+633,Youth Villages (Inner HarbourCampus) EXCEL Program: Boys,1027,Q2,82.99
+634,Youth Villages (Inner HarbourCampus) EXCEL Program: Boys,1027,Q3,62.86
+635,Youth Villages (Inner HarbourCampus) EXCEL Program: Boys,1027,Q4,99.63
+636,All God's Children ,861,Q1,73.62
+637,All God's Children ,861,Q2,72.01
+638,All God's Children ,861,Q3,69.04
+639,All God's Children ,861,Q4,84.76
+640,"ALR Family Services, Inc. ",5140,Q1,92.84
+641,"ALR Family Services, Inc. ",5140,Q2,93.33
+642,"ALR Family Services, Inc. ",5140,Q3,91.38
+643,"ALR Family Services, Inc. ",5140,Q4,87.53
+644,"Benchmark Family Services, Inc (formerlyLifeway for Youth) ",973,Q1,95.28
+645,"Benchmark Family Services, Inc (formerlyLifeway for Youth) ",973,Q2,94.45
+646,"Benchmark Family Services, Inc (formerlyLifeway for Youth) ",973,Q3,90.36
+647,"Benchmark Family Services, Inc (formerlyLifeway for Youth) ",973,Q4,94.03
+648,"Benchmark Family Services, IncBrunswick ",5149,Q1,69.88
+649,"Benchmark Family Services, IncBrunswick ",5149,Q2,66.03
+650,"Benchmark Family Services, IncBrunswick ",5149,Q3,96.7
+651,"Benchmark Family Services, IncBrunswick ",5149,Q4,96.86
+652,"Benchmark Family Services, IncColumbus ",5113,Q1,93.25
+653,"Benchmark Family Services, IncColumbus ",5113,Q2,93.84
+654,"Benchmark Family Services, IncColumbus ",5113,Q3,89.08
+655,"Benchmark Family Services, IncColumbus ",5113,Q4,93.23
+656,"Benchmark Family Services, IncLawrenceville ",5112,Q1,92.83
+657,"Benchmark Family Services, IncLawrenceville ",5112,Q2,93.45
+658,"Benchmark Family Services, IncLawrenceville ",5112,Q3,91.64
+659,"Benchmark Family Services, IncLawrenceville ",5112,Q4,92.66
+660,Bethany Christian Services Atlanta ,573,Q1,81.64
+661,Bethany Christian Services Atlanta ,573,Q2,72.4
+662,Bethany Christian Services Atlanta ,573,Q3,81.62
+663,Bethany Christian Services Atlanta ,573,Q4,75.91
+664,Bethany Christian Services Columbus,574,Q1,93.27
+665,Bethany Christian Services Columbus,574,Q2,83.71
+666,Bethany Christian Services Columbus,574,Q3,88.4
+667,Bethany Christian Services Columbus,574,Q4,88.52
+668,"Care4All Children Services, Inc. Care4AllChildren Services, Inc. ",5147,Q1,89.43
+669,"Care4All Children Services, Inc. Care4AllChildren Services, Inc. ",5147,Q2,92.42
+670,"Care4All Children Services, Inc. Care4AllChildren Services, Inc. ",5147,Q3,92.16
+671,"Care4All Children Services, Inc. Care4AllChildren Services, Inc. ",5147,Q4,87.32
+672,"Childkind, Inc ",583,Q1,104.84
+673,"Childkind, Inc ",583,Q2,102.53
+674,"Childkind, Inc ",583,Q3,100.5
+675,"Childkind, Inc ",583,Q4,103.17
+676,Choices for Life Of GA Valdosta ,943,Q1,105.14
+677,Choices for Life Of GA Valdosta ,943,Q2,104.38
+678,Choices for Life Of GA Valdosta ,943,Q3,102.96
+679,Choices for Life Of GA Valdosta ,943,Q4,105.49
+680,"CHRIS Kids, Inc. DBA: GatewayFoster Care ",5166,Q2,0.0
+681,"CHRIS Kids, Inc. DBA: GatewayFoster Care ",5166,Q3,0.0
+682,"CHRIS Kids, Inc. DBA: GatewayFoster Care ",5166,Q4,43.79
+683,Community Connections ,586,Q1,101.39
+684,Community Connections ,586,Q2,100.94
+685,Community Connections ,586,Q3,105.29
+686,Community Connections ,586,Q4,105.27
+687,Creative Community Services ,612,Q1,87.44
+688,Creative Community Services ,612,Q2,85.11
+689,Creative Community Services ,612,Q3,79.92
+690,Creative Community Services ,612,Q4,84.39
+691,Devereux GA Treatment NetworkSpecialty Foster Care ,621,Q1,104.26
+692,Devereux GA Treatment NetworkSpecialty Foster Care ,621,Q2,101.08
+693,Devereux GA Treatment NetworkSpecialty Foster Care ,621,Q3,97.5
+694,Devereux GA Treatment NetworkSpecialty Foster Care ,621,Q4,98.5
+695,Elks Aidmore Children's Center Child Placing Agency ,5120,Q1,88.43
+696,Elks Aidmore Children's Center Child Placing Agency ,5120,Q2,91.87
+697,Elks Aidmore Children's Center Child Placing Agency ,5120,Q3,89.14
+698,Elks Aidmore Children's Center Child Placing Agency ,5120,Q4,79.81
+699,"ENA, Inc., dba NECCO (formerly GASAFE) Albany ",672,Q1,102.52
+700,"ENA, Inc., dba NECCO (formerly GASAFE) Albany ",672,Q2,104.85
+701,"ENA, Inc., dba NECCO (formerly GASAFE) Albany ",672,Q3,104.4
+702,"ENA, Inc., dba NECCO (formerly GASAFE) Albany ",672,Q4,92.66
+703,"ENA, Inc., dba NECCO (formerly GASAFE) Jonesboro ",4289,Q1,94.23
+704,"ENA, Inc., dba NECCO (formerly GASAFE) Jonesboro ",4289,Q2,92.78
+705,"ENA, Inc., dba NECCO (formerly GASAFE) Jonesboro ",4289,Q3,90.46
+706,"ENA, Inc., dba NECCO (formerly GASAFE) Jonesboro ",4289,Q4,81.7
+707,"ENA, Inc., dba NECCO (formerly GASAFE) Macon ",675,Q1,87.47
+708,"ENA, Inc., dba NECCO (formerly GASAFE) Macon ",675,Q2,84.64
+709,"ENA, Inc., dba NECCO (formerly GASAFE) Macon ",675,Q3,91.6
+710,"ENA, Inc., dba NECCO (formerly GASAFE) Macon ",675,Q4,92.76
+711,"ENA, Inc., dba NECCO (formerly GASAFE) Martinez ",673,Q1,94.24
+712,"ENA, Inc., dba NECCO (formerly GASAFE) Martinez ",673,Q2,92.4
+713,"ENA, Inc., dba NECCO (formerly GASAFE) Martinez ",673,Q3,93.68
+714,"ENA, Inc., dba NECCO (formerly GASAFE) Martinez ",673,Q4,91.68
+715,Faithbridge Foster Care ,974,Q1,99.84
+716,Faithbridge Foster Care ,974,Q2,94.3
+717,Faithbridge Foster Care ,974,Q3,95.25
+718,Faithbridge Foster Care ,974,Q4,95.21
+719,Families First Foster Care Program,639,Q1,93.62
+720,Families First Foster Care Program,639,Q2,94.48
+721,Families First Foster Care Program,639,Q3,94.58
+722,Families First Foster Care Program,639,Q4,85.85
+723,Georgia Agape ,655,Q1,97.8
+724,Georgia Agape ,655,Q2,91.12
+725,Georgia Agape ,655,Q3,96.31
+726,Georgia Agape ,655,Q4,101.43
+727,Georgia Baptist Children's Home &Family Ministries Fayette Program:Grace for Children ,1024,Q1,100.06
+728,Georgia Baptist Children's Home &Family Ministries Fayette Program:Grace for Children ,1024,Q2,103.56
+729,Georgia Baptist Children's Home &Family Ministries Fayette Program:Grace for Children ,1024,Q3,98.87
+730,Georgia Baptist Children's Home &Family Ministries Fayette Program:Grace for Children ,1024,Q4,107.06
+731,Georgia Parent Support Network ,670,Q1,99.82
+732,Georgia Parent Support Network ,670,Q2,103.76
+733,Georgia Parent Support Network ,670,Q3,100.61
+734,Georgia Parent Support Network ,670,Q4,100.01
+735,Giving Children A Chance of Georgia,981,Q1,102.08
+736,Giving Children A Chance of Georgia,981,Q2,95.88
+737,Giving Children A Chance of Georgia,981,Q3,100.56
+738,Giving Children A Chance of Georgia,981,Q4,100.64
+739,Hillside Connections Program ,700,Q1,95.67
+740,Hillside Connections Program ,700,Q2,95.56
+741,Hillside Connections Program ,700,Q3,90.88
+742,Hillside Connections Program ,700,Q4,87.95
+743,Laurel Heights Hospital -UniversalHealth Laurel Heights CPA ,722,Q1,81.32
+744,Laurel Heights Hospital -UniversalHealth Laurel Heights CPA ,722,Q2,85.65
+745,Laurel Heights Hospital -UniversalHealth Laurel Heights CPA ,722,Q3,81.79
+746,Laurel Heights Hospital -UniversalHealth Laurel Heights CPA ,722,Q4,75.31
+747,Lighthouse Therapeutic Foster Care,727,Q1,90.06
+748,Lighthouse Therapeutic Foster Care,727,Q2,97.1
+749,Lighthouse Therapeutic Foster Care,727,Q3,94.37
+750,Lighthouse Therapeutic Foster Care,727,Q4,92.21
+751,Lookout Mountain CommunityServices Board TREKProgram/Fayetteville ,5146,Q1,52.0
+752,Lookout Mountain CommunityServices Board TREKProgram/Fayetteville ,5146,Q2,104.0
+753,Lookout Mountain CommunityServices Board TREKProgram/Fayetteville ,5146,Q3,98.15
+754,Lookout Mountain CommunityServices Board TREKProgram/Fayetteville ,5146,Q4,83.94
+755,Lookout Mountain CommunityServices Board TREKProgram/Ft.Oglethorpe ,876,Q1,92.31
+756,Lookout Mountain CommunityServices Board TREKProgram/Ft.Oglethorpe ,876,Q2,97.88
+757,Lookout Mountain CommunityServices Board TREKProgram/Ft.Oglethorpe ,876,Q3,94.54
+758,Lookout Mountain CommunityServices Board TREKProgram/Ft.Oglethorpe ,876,Q4,93.02
+759,Lutheran Services of GeorgiaLutheran of Albany ,731,Q1,96.66
+760,Lutheran Services of GeorgiaLutheran of Albany ,731,Q2,91.54
+761,Lutheran Services of GeorgiaLutheran of Albany ,731,Q3,94.89
+762,Lutheran Services of GeorgiaLutheran of Albany ,731,Q4,96.79
+763,Lutheran Services of Georgia Lutheran of Atlanta,728,Q1,97.29
+764,Lutheran Services of Georgia Lutheran of Atlanta,728,Q2,97.28
+765,Lutheran Services of Georgia Lutheran of Atlanta,728,Q3,98.9
+766,Lutheran Services of Georgia Lutheran of Atlanta,728,Q4,90.24
+767,Lutheran Services of GeorgiaLutheran of Rome ,4381,Q1,94.54
+768,Lutheran Services of GeorgiaLutheran of Rome ,4381,Q2,95.57
+769,Lutheran Services of GeorgiaLutheran of Rome ,4381,Q3,93.47
+770,Lutheran Services of GeorgiaLutheran of Rome ,4381,Q4,95.41
+771,Lutheran Services of GeorgiaLutheran of Savannah ,730,Q1,91.82
+772,Lutheran Services of GeorgiaLutheran of Savannah ,730,Q2,92.44
+773,Lutheran Services of GeorgiaLutheran of Savannah ,730,Q3,95.35
+774,Lutheran Services of GeorgiaLutheran of Savannah ,730,Q4,95.93
+775,Mentor Network Mentor Albany ,733,Q1,89.9
+776,Mentor Network Mentor Albany ,733,Q2,90.36
+777,Mentor Network Mentor Albany ,733,Q3,90.11
+778,Mentor Network Mentor Albany ,733,Q4,88.05
+779,Mentor Network Mentor Athens ,734,Q1,85.49
+780,Mentor Network Mentor Athens ,734,Q2,90.17
+781,Mentor Network Mentor Athens ,734,Q3,84.69
+782,Mentor Network Mentor Athens ,734,Q4,84.25
+783,Mentor Network Mentor Atlanta ,736,Q1,82.8
+784,Mentor Network Mentor Atlanta ,736,Q2,83.62
+785,Mentor Network Mentor Atlanta ,736,Q3,83.84
+786,Mentor Network Mentor Atlanta ,736,Q4,76.26
+787,Mentor Network Mentor Augusta,737,Q1,90.5
+788,Mentor Network Mentor Augusta,737,Q2,98.54
+789,Mentor Network Mentor Augusta,737,Q3,94.62
+790,Mentor Network Mentor Augusta,737,Q4,80.09
+791,Mentor Network Mentor Macon ,740,Q1,90.31
+792,Mentor Network Mentor Macon ,740,Q2,88.45
+793,Mentor Network Mentor Macon ,740,Q3,87.66
+794,Mentor Network Mentor Macon ,740,Q4,94.46
+795,Mentor Network Mentor Savannah ,742,Q1,83.98
+796,Mentor Network Mentor Savannah ,742,Q2,89.31
+797,Mentor Network Mentor Savannah ,742,Q3,88.8
+798,Mentor Network Mentor Savannah ,742,Q4,79.42
+799,"Meritan, Inc. d/b/a Meritan Stepping StonesCartersville ",680,Q1,91.43
+800,"Meritan, Inc. d/b/a Meritan Stepping StonesCartersville ",680,Q2,90.14
+801,"Meritan, Inc. d/b/a Meritan Stepping StonesCartersville ",680,Q3,84.46
+802,"Meritan, Inc. d/b/a Meritan Stepping StonesCartersville ",680,Q4,92.33
+803,"Meritan, Inc. d/b/a Meritan Stepping Stones Macon",682,Q1,98.03
+804,"Meritan, Inc. d/b/a Meritan Stepping Stones Macon",682,Q2,98.39
+805,"Meritan, Inc. d/b/a Meritan Stepping Stones Macon",682,Q3,102.82
+806,"Meritan, Inc. d/b/a Meritan Stepping Stones Macon",682,Q4,98.55
+807,Morningstar Children and FamilyServices Foster Care Services -Brunswick ,765,Q1,85.11
+808,Morningstar Children and FamilyServices Foster Care Services -Brunswick ,765,Q2,89.5
+809,Morningstar Children and FamilyServices Foster Care Services -Brunswick ,765,Q3,89.49
+810,Morningstar Children and FamilyServices Foster Care Services -Brunswick ,765,Q4,82.95
+811,Murphy-Harpst Children's CentersMurphy-Harpst CPA ,769,Q1,108.73
+812,Murphy-Harpst Children's CentersMurphy-Harpst CPA ,769,Q2,104.98
+813,Murphy-Harpst Children's CentersMurphy-Harpst CPA ,769,Q3,106.27
+814,Murphy-Harpst Children's CentersMurphy-Harpst CPA ,769,Q4,106.77
+815,National Youth Advocate ProgramAugusta ,683,Q1,90.9
+816,National Youth Advocate ProgramAugusta ,683,Q2,84.45
+817,National Youth Advocate ProgramAugusta ,683,Q3,88.45
+818,National Youth Advocate ProgramAugusta ,683,Q4,83.73
+819,National Youth Advocate ProgramEast Point ,4389,Q1,81.81
+820,National Youth Advocate ProgramEast Point ,4389,Q2,82.28
+821,National Youth Advocate ProgramEast Point ,4389,Q3,75.47
+822,National Youth Advocate ProgramEast Point ,4389,Q4,90.59
+823,"National Youth Placement Corp, Inc.",5141,Q1,59.25
+824,"National Youth Placement Corp, Inc.",5141,Q2,80.8
+825,"National Youth Placement Corp, Inc.",5141,Q3,86.82
+826,"National Youth Placement Corp, Inc.",5141,Q4,86.07
+827,Neighbor to Family Chatham County,4960,Q1,104.0
+828,Neighbor to Family Chatham County,4960,Q2,106.0
+829,Neighbor to Family Chatham County,4960,Q3,97.27
+830,Neighbor to Family Chatham County,4960,Q4,97.27
+831,Neighbor to Family Dekalb County,1031,Q1,103.97
+832,Neighbor to Family Dekalb County,1031,Q2,100.48
+833,Neighbor to Family Dekalb County,1031,Q3,99.35
+834,Neighbor to Family Dekalb County,1031,Q4,93.08
+835,Neighbor to Family Douglas County,1033,Q1,101.25
+836,Neighbor to Family Douglas County,1033,Q2,104.99
+837,Neighbor to Family Douglas County,1033,Q3,100.15
+838,Neighbor to Family Douglas County,1033,Q4,91.35
+839,Neighbor to Family Fulton County ,774,Q1,90.66
+840,Neighbor to Family Fulton County ,774,Q2,85.98
+841,Neighbor to Family Fulton County ,774,Q3,91.69
+842,Neighbor to Family Fulton County ,774,Q4,85.55
+843,Neighbor to Family Gwinnett County,1032,Q1,100.09
+844,Neighbor to Family Gwinnett County,1032,Q2,102.02
+845,Neighbor to Family Gwinnett County,1032,Q3,97.77
+846,Neighbor to Family Gwinnett County,1032,Q4,101.08
+847,Neighbor to Family Henry County,1035,Q1,107.35
+848,Neighbor to Family Henry County,1035,Q2,104.68
+849,Neighbor to Family Henry County,1035,Q3,100.13
+850,Neighbor to Family Henry County,1035,Q4,101.3
+851,Neighbor to Family RichmondCounty ,1034,Q1,95.5
+852,Neighbor to Family RichmondCounty ,1034,Q2,101.3
+853,Neighbor to Family RichmondCounty ,1034,Q3,95.33
+854,Neighbor to Family RichmondCounty ,1034,Q4,89.45
+855,"New Beginnings, Life ChangingNetwork, Inc. ",979,Q1,90.84
+856,"New Beginnings, Life ChangingNetwork, Inc. ",979,Q2,88.19
+857,"New Beginnings, Life ChangingNetwork, Inc. ",979,Q3,86.01
+858,"New Beginnings, Life ChangingNetwork, Inc. ",979,Q4,78.14
+859,New Horizons Community ServicesBoard New Horizons ,877,Q1,75.15
+860,New Horizons Community ServicesBoard New Horizons ,877,Q2,75.02
+861,New Horizons Community ServicesBoard New Horizons ,877,Q3,77.68
+862,New Horizons Community ServicesBoard New Horizons ,877,Q4,73.45
+863,"New Horizons Initiatives, Inc. ",968,Q1,53.39
+864,"New Horizons Initiatives, Inc. ",968,Q2,53.39
+865,"New Horizons Initiatives, Inc. ",968,Q3,55.57
+866,"New Horizons Initiatives, Inc. ",968,Q4,55.57
+867,"Omni Visions, Inc. College Park",5119,Q1,91.31
+868,"Omni Visions, Inc. College Park",5119,Q2,91.1
+869,"Omni Visions, Inc. College Park",5119,Q3,80.12
+870,"Omni Visions, Inc. College Park",5119,Q4,75.76
+871,"Omni Visions, Inc. Dalton (formerlyRinggold) ",5121,Q1,109.3
+872,"Omni Visions, Inc. Dalton (formerlyRinggold) ",5121,Q2,106.99
+873,"Omni Visions, Inc. Dalton (formerlyRinggold) ",5121,Q3,105.44
+874,"Omni Visions, Inc. Dalton (formerlyRinggold) ",5121,Q4,88.3
+875,"Omni Visions, Inc. Kennesaw ",5144,Q1,61.62
+876,"Omni Visions, Inc. Kennesaw ",5144,Q2,106.85
+877,"Omni Visions, Inc. Kennesaw ",5144,Q3,100.61
+878,"Omni Visions, Inc. Kennesaw ",5144,Q4,94.16
+879,"Omni Visions, Inc. Tucker (formerlyPhoenix Homes) ",4934,Q1,91.24
+880,"Omni Visions, Inc. Tucker (formerlyPhoenix Homes) ",4934,Q2,96.03
+881,"Omni Visions, Inc. Tucker (formerlyPhoenix Homes) ",4934,Q3,82.87
+882,"Omni Visions, Inc. Tucker (formerlyPhoenix Homes) ",4934,Q4,90.9
+883,"Trinity J and D, LLC Trinity J and D,LLC ",980,Q1,98.54
+884,"Trinity J and D, LLC Trinity J and D,LLC ",980,Q2,99.89
+885,"Trinity J and D, LLC Trinity J and D,LLC ",980,Q3,98.37
+886,"Trinity J and D, LLC Trinity J and D,LLC ",980,Q4,97.55
+887,Twin Cedars Youth Services FosterCare ,932,Q1,90.01
+888,Twin Cedars Youth Services FosterCare ,932,Q2,92.78
+889,Twin Cedars Youth Services FosterCare ,932,Q3,91.0
+890,Twin Cedars Youth Services FosterCare ,932,Q4,91.22
+891,United Methodist Children Home of the North GAConference ,847,Q1,107.76
+892,United Methodist Children Home of the North GAConference ,847,Q2,103.38
+893,United Methodist Children Home of the North GAConference ,847,Q3,100.28
+894,United Methodist Children Home of the North GAConference ,847,Q4,94.75
+895,Universal Health Services ofSavannah Coastal Harbor Families,990,Q1,91.49
+896,Universal Health Services ofSavannah Coastal Harbor Families,990,Q2,86.74
+897,Universal Health Services ofSavannah Coastal Harbor Families,990,Q3,87.21
+898,Universal Health Services ofSavannah Coastal Harbor Families,990,Q4,90.77
